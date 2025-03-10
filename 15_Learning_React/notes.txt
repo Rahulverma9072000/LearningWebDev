@@ -1,0 +1,15 @@
+React is basically the component driven architectue . 
+Component is just Reusable UI Element .  
+Combination of multiple React element create component .  
+React element is an object that describes the properties of an actual DOM Node which will be created by React . 
+React Element is the lightweight description of User Interface . This description is in the form of JS objects .
+//This is simple structure of React Elements
+{
+    type : 'button' ,
+    props : {
+        className : "btn";
+    }
+    .. 
+}
+
+//React will give us a function : createElement(....) , it will return the React Element .

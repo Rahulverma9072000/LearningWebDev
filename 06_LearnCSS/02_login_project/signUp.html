@@ -1,0 +1,65 @@
+<!-- Assignment - 1  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SignUp Form</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .signUp{
+            background-color: aliceblue;
+            width: 400px;
+            border: 1px solid black;
+            border-radius: 8px;
+            padding: 10px;
+        }
+        form{
+            display: flex;
+            flex-direction: column;
+        }
+        input{
+            margin-bottom: 15px;
+            border: none;
+            border-radius: 5px;
+            padding: 10px;
+        }
+        .name-fields {
+            display: flex;
+            gap: 10px;
+        }
+        .name-fields input {
+            flex: 1;
+        }
+        button{
+            background-color: rgb(171, 249, 54);
+            color: white;
+            font-weight: bold;
+            border: none;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="signUp">
+        <h2>SignUp Form </h2>
+        <form>
+            <input type = "email" name = "" id = "" placeholder = "Email" >
+            <div class="name-fields">
+                <input type="text" name="" id="" placeholder="First Name">
+                <input type="text" name="" id="" placeholder="Last Name">
+            </div>
+            <input type = "password" name = "" id = "" placeholder = "Password" >
+            <button type="submit">SignUp</button>
+        </form>
+    </div>
+</body>
+</html>
