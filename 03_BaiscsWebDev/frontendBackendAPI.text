@@ -1,0 +1,15 @@
+Server is just a software that serve (Most of the People thing Server is like a Big Machine )
+
+Frontend :  HTML , CSS , JS 
+THere are many libraries : CSS - tailwind , bootstrap 
+JS - React , Vue , NextJS 
+But the foundation is composed of these 3 HTML , CSS , JS 
+
+Backend is composed of 2 thing 
+Programming Language :  Python , Javascript , Ruby on Rails 
+DataBase : Mongo , My SQL , PostGrece 
+(Some are SQL , NoSQL )
+
+
+Middle Window between both of them are API's . 
+Data is send in some format -> json format . 

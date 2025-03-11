@@ -1,0 +1,14 @@
+//How does the internet Works 
+It's just connecting 1 computer with another computer 
+Ability to connect your computer with other computer and the way it works is the main engineering 
+
+See the image for more clearity 
+
+Every computer has some IP Address . (Internet Protocol ) which is unique . 
+
+DNS (Domain Name Service ) It has all the IP Address for all domains , which updates every time with some timeframe .
+
+We can purchase Domain Name from many Websites : nameCheap 
+Host Website on hostinger , aws , google 
+
+For Resume of your name: Use GitHub Static Pages . 
